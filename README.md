@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 Nombre: Juan Luis Molina Orellana
 Aprendi que github nos sirve para trabajar codigos en equipo de manera orgizada y en tiempo real.
+Prueba de rama
 =======
 Jose carlos
 Aprendi que es como un explorador de archivos con una comunidad para editar un mismo archivo
