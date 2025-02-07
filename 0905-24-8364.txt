@@ -1,0 +1,15 @@
+1)¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+
+Aprendi que se puede trabajar un solo codigo con varias personas conectadas al mismo tiempo, y de manera actualizada.
+
+
+2)¿Cómo fue la experiencia de trabajar en parejas ¿Encontrastealgún conflicto? ¿Cómo lo resolviste?
+
+Fue una experiencia ordenada, ya que podiamos trabajar al mismo tiempo en el mismo codigo. 
+Si, no podia subir mi parte ya que no habia hecho un "pull" anteriormente, por lo que al hacerlo, me dejo continuar con el codigo y subirlo actualizado.
+
+
+3)¿Qué ventajas crees que tiene usar Git en proyectos de
+programación?
+
+Pienso que se puede trabajar con varias personas de manera organizada y al dia, ademas de tener el apoyo de diferentes personas.
