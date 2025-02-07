@@ -1,0 +1,13 @@
+¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+
+se complementa bien para estar actualizados los dos a la vex
+
+Cómo fue la experiencia de trabajar en parejas? ¿Encontraste
+algún conflicto? ¿Cómo lo resolviste?
+
+el problema es que hacemos cambios y no hacíamos pull y había un conflicto
+
+Qué ventajas crees que tiene usar Git en proyectos de
+programación?
+
+no estar constantemente compartiendo el código con compañeros
